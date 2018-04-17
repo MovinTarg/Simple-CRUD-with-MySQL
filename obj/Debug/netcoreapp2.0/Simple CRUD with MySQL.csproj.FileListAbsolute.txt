@@ -1,0 +1,10 @@
+C:\Users\Pete\Desktop\DojoAssignments\netCore\intro_to_.net\Simple CRUD with MySQL\bin\Debug\netcoreapp2.0\Simple CRUD with MySQL.deps.json
+C:\Users\Pete\Desktop\DojoAssignments\netCore\intro_to_.net\Simple CRUD with MySQL\bin\Debug\netcoreapp2.0\Simple CRUD with MySQL.runtimeconfig.json
+C:\Users\Pete\Desktop\DojoAssignments\netCore\intro_to_.net\Simple CRUD with MySQL\bin\Debug\netcoreapp2.0\Simple CRUD with MySQL.runtimeconfig.dev.json
+C:\Users\Pete\Desktop\DojoAssignments\netCore\intro_to_.net\Simple CRUD with MySQL\bin\Debug\netcoreapp2.0\Simple CRUD with MySQL.dll
+C:\Users\Pete\Desktop\DojoAssignments\netCore\intro_to_.net\Simple CRUD with MySQL\bin\Debug\netcoreapp2.0\Simple CRUD with MySQL.pdb
+C:\Users\Pete\Desktop\DojoAssignments\netCore\intro_to_.net\Simple CRUD with MySQL\obj\Debug\netcoreapp2.0\Simple CRUD with MySQL.csproj.CoreCompileInputs.cache
+C:\Users\Pete\Desktop\DojoAssignments\netCore\intro_to_.net\Simple CRUD with MySQL\obj\Debug\netcoreapp2.0\Simple CRUD with MySQL.AssemblyInfoInputs.cache
+C:\Users\Pete\Desktop\DojoAssignments\netCore\intro_to_.net\Simple CRUD with MySQL\obj\Debug\netcoreapp2.0\Simple CRUD with MySQL.AssemblyInfo.cs
+C:\Users\Pete\Desktop\DojoAssignments\netCore\intro_to_.net\Simple CRUD with MySQL\obj\Debug\netcoreapp2.0\Simple CRUD with MySQL.dll
+C:\Users\Pete\Desktop\DojoAssignments\netCore\intro_to_.net\Simple CRUD with MySQL\obj\Debug\netcoreapp2.0\Simple CRUD with MySQL.pdb
